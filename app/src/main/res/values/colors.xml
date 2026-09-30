@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="maroon">#800020</color>
+    <color name="gold">#D4AF37</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="dark_bg">#1a1a1a</color>
+    <color name="light_bg">#F5F5F5</color>
+</resources>
